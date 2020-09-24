@@ -1,2 +1,4 @@
-# tributepage-freecodecamp
+# Freecodecamp challange [Tribute Page]
 Simple Tribute pge of "Michael Jordan"
+
+See [live] at "https://jovial-bartik-7b6ace.netlify.app" 
